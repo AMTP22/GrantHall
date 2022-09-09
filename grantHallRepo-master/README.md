@@ -1,6 +1,1 @@
-Visit the site:
-https://rocky-everglades-63868.herokuapp.com/granthall/
-
-
-Upload to heroku:
-https://git.heroku.com/rocky-everglades-63868.git 
+This program is an OOP approach and developing a menu/food tracking and ordering system for Grant Hall's restaurant at West Point.
