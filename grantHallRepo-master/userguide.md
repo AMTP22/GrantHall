@@ -1,0 +1,5 @@
+UserGuide
+
+The grantHall website is intended to be used by Grant Hall personnel. The functionality of the website allows users to update client data, food information and view information about processed orders. The intended use of this application would allow for a multitude of processes to be conducted through analyzing the database that models the transactions that occur at Grant Hall.
+  For example, Grant Hall financiers can view relevant pricing information and collect data that represents sales and transactions from customer data. Dieticians can collect information regarding the various food items that exist in Grant Hall and ultimately, Users will be able to use the application to order food.
+  This application was designed to provide convenience to the client side of transactions that occur at Grant Hall. Instead of ordering food in person and waiting a significant amount of time, this application is intended to allow the user to order food remotely and pick up the food when ready.

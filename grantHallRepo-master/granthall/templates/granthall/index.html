@@ -1,0 +1,11 @@
+{% extends 'granthall/base_generic.html' %}
+
+{% block content %}
+{% if user.is_authenticated %}
+<p>Welcome to the Grant Hall Mangement Page!</p>
+<a href="logout">Log Out</a>
+<p>Please use the tabs above to navigate to the desired page.</p>
+{% else %}
+<a href="login">Log In</a>
+{% endif %}
+{% endblock %}

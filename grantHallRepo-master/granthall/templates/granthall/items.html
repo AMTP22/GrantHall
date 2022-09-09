@@ -1,0 +1,10 @@
+{% extends 'granthall/base_generic.html' %}
+
+{% block content %}
+
+{% for item in items %}
+    Food: {{item.foodName}} <br />
+    Stock Quantity: {{item.stockQuantity }}<br />
+{% endfor %}
+
+{% endblock %}
